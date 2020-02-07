@@ -1,6 +1,6 @@
 import socket
 
-HOST = '35.223.171.134'
+HOST = '104.155.146.62'
 PORT = 25565 # ;)
 PASS = 'redacted'
 FLAG = 'redacted'

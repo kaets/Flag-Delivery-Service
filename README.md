@@ -2,5 +2,7 @@
 Just login and GET THOSE FLAGS!! 😎😤 
 
 ## TODO
-- [ ] Create server
-- [ ] Add flag
+- [x] Create server
+- [x] Add flag
+- [ ] Remove password
+- [ ] Remove flag

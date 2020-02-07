@@ -5,4 +5,4 @@ Just login and GET THOSE FLAGS!! 😎😤
 - [x] Create server
 - [x] Add flag
 - [x] Remove password
-- [ ] Remove flag
+- [x] Remove flag

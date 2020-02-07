@@ -16,7 +16,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             conn.settimeout(10)
             try:
                 password = conn.recv(1024).decode('ascii').strip()
-            except socket.timeout:
+            except:
                 conn.sendall('\n'.encode('ascii'))
                 continue
             if password == PASS:

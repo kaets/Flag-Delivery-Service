@@ -2,7 +2,7 @@ import socket
 
 HOST = '35.223.171.134'
 PORT = 25565 # ;)
-PASS = 'c001k1d$0nLY'
+PASS = 'redacted'
 FLAG = 'utflag{g1T_h1sT0r1@n}'
 
 with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
